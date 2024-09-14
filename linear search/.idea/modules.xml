@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NextGreatest number/NextGreatest number.iml" filepath="$PROJECT_DIR$/NextGreatest number/NextGreatest number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings in java/Strings in java.iml" filepath="$PROJECT_DIR$/Strings in java/Strings in java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backtracking/backtracking.iml" filepath="$PROJECT_DIR$/backtracking/backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarysearch/binarysearch.iml" filepath="$PROJECT_DIR$/binarysearch/binarysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ceiling of a number/ceiling of a number.iml" filepath="$PROJECT_DIR$/ceiling of a number/ceiling of a number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evennumberdigits/evennumberdigits.iml" filepath="$PROJECT_DIR$/evennumberdigits/evennumberdigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first and last occurence of number/first and last occurence of number.iml" filepath="$PROJECT_DIR$/first and last occurence of number/first and last occurence of number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floor of a number/floor of a number.iml" filepath="$PROJECT_DIR$/floor of a number/floor of a number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infinite array/infinite array.iml" filepath="$PROJECT_DIR$/infinite array/infinite array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear search.iml" filepath="$PROJECT_DIR$/linear search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxelement2D/maxelement2D.iml" filepath="$PROJECT_DIR$/maxelement2D/maxelement2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxwealth/maxwealth.iml" filepath="$PROJECT_DIR$/maxwealth/maxwealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mountain array peak element/mountain array peak element.iml" filepath="$PROJECT_DIR$/mountain array peak element/mountain array peak element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orderagnostic binary/orderagnostic binary.iml" filepath="$PROJECT_DIR$/orderagnostic binary/orderagnostic binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peak element/peak element.iml" filepath="$PROJECT_DIR$/peak element/peak element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortingsrecursive/sortingsrecursive.iml" filepath="$PROJECT_DIR$/sortingsrecursive/sortingsrecursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringsearch/stringsearch.iml" filepath="$PROJECT_DIR$/stringsearch/stringsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringsrec/stringsrec.iml" filepath="$PROJECT_DIR$/stringsrec/stringsrec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two dimensional/two dimensional.iml" filepath="$PROJECT_DIR$/two dimensional/two dimensional.iml" />
+    </modules>
+  </component>
+</project>
